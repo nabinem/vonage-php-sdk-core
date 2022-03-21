@@ -1,5 +1,5 @@
 {
-  "name": "vonage/client-core",
+  "name": "nabinem/vonage-php-sdk-core",
   "type": "library",
   "description": "PHP Client for using Vonage's API.",
   "homepage": "https://developer.nexmo.com",
@@ -24,7 +24,7 @@
     "psr/log": "^1.1|^2.0|^3.0"
   },
   "require-dev": {
-    "php": "~7.4 || ~8.0 || ~8.1",
+    "php": "~7.1 || ~8.0 || ~8.1",
     "guzzlehttp/guzzle": ">=6",
     "helmich/phpunit-json-assert": "^3.3",
     "php-http/mock-client": "^1.4",
